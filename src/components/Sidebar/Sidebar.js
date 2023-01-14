@@ -55,7 +55,7 @@ const Sidebar = () => {
                         <path d="M246.153,55.558v402.885c74.135-34.307,152.741-47.774,226.463-38.569c0-134.295,0-268.589,0-402.884    C398.896,7.786,320.289,21.252,246.153,55.558z"/></g></g><g><g>
                         <path d="M0.001,16.99C0,151.285,0,285.579,0.001,419.874c73.719-9.204,152.325,4.262,226.46,38.568V55.557    C152.324,21.252,73.719,7.786,0.001,16.99z"/></g></g>
                     </svg>
-                    <NavLink className={({ isActive }) => getClassName1(isActive)} to='/'>Recipes</NavLink>
+                    <NavLink className={({ isActive }) => getClassName1(isActive)} to='/food-recipe-app'>Recipes</NavLink>
                 </div>
                 <div className='menu-item'>
                     <svg fill={isActive2 ? "#db3529" : "#a9adb1"} width="15px" height="15px" viewBox="0 0 24 24">

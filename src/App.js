@@ -10,7 +10,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-          <Route path="/" exact element={<Home />} />
+          <Route path="/food-recipe-app" exact element={<Home />} />
           <Route path="/favourites" exact element={<Favourites />} />
           <Route path="/courses" element={<Courses />} />
           <Route path="/community" element={<Community />} />
