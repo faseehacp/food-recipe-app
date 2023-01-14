@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/food-recipe-app/static/css/main.aff11442.chunk.css",
+    "main.js": "/food-recipe-app/static/js/main.00060271.chunk.js",
+    "main.js.map": "/food-recipe-app/static/js/main.00060271.chunk.js.map",
+    "runtime-main.js": "/food-recipe-app/static/js/runtime-main.07d5e000.js",
+    "runtime-main.js.map": "/food-recipe-app/static/js/runtime-main.07d5e000.js.map",
+    "static/js/2.4cd0fae2.chunk.js": "/food-recipe-app/static/js/2.4cd0fae2.chunk.js",
+    "static/js/2.4cd0fae2.chunk.js.map": "/food-recipe-app/static/js/2.4cd0fae2.chunk.js.map",
+    "index.html": "/food-recipe-app/index.html",
+    "precache-manifest.17465ab03608a6f55291a7a1d2fa00bb.js": "/food-recipe-app/precache-manifest.17465ab03608a6f55291a7a1d2fa00bb.js",
+    "service-worker.js": "/food-recipe-app/service-worker.js",
+    "static/css/main.aff11442.chunk.css.map": "/food-recipe-app/static/css/main.aff11442.chunk.css.map",
+    "static/js/2.4cd0fae2.chunk.js.LICENSE.txt": "/food-recipe-app/static/js/2.4cd0fae2.chunk.js.LICENSE.txt",
+    "static/js/main.00060271.chunk.js.LICENSE.txt": "/food-recipe-app/static/js/main.00060271.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/food-recipe-app/static/media/profile.8b778282.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07d5e000.js",
+    "static/js/2.4cd0fae2.chunk.js",
+    "static/css/main.aff11442.chunk.css",
+    "static/js/main.00060271.chunk.js"
+  ]
+}
